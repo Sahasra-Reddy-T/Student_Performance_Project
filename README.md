@@ -137,4 +137,7 @@ Sahasra Reddy
 <br>
 💭 Passionate about transforming data into meaningful insights
 <br><br>
+This project has been created solely for educational and college application purposes.
 
+All analysis, code, and documentation have been developed by Sahasra Reddy as part of personal learning in Data Science and Python-based Exploratory Data Analysis.
+<br>
